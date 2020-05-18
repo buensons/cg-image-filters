@@ -22,7 +22,8 @@ Photo editor, which implements the following filters and algorithms:
 - Averge dithering (Y'CbCr)
 - K-means
 
-![alt text](https://raw.githubusercontent.com/buensons/cg-image-filters/master/screenshot.png)
+# Edge detection
+![alt text](https://raw.githubusercontent.com/buensons/cg-image-filters/master/images/edge.png)
 
 # Inverse
 ![alt text](https://raw.githubusercontent.com/buensons/cg-image-filters/master/images/inverse.png)
