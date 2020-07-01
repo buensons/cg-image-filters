@@ -43,7 +43,7 @@ Photo editor, which implements the following filters and algorithms:
 # Emboss
 ![alt text](https://raw.githubusercontent.com/buensons/cg-image-filters/master/images/emboss.png)
 
-# Median (my favourite)
+# Median
 ![alt text](https://raw.githubusercontent.com/buensons/cg-image-filters/master/images/median.png)
 
 # Average dithering (greyscale)
